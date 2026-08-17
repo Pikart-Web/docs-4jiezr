@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-nmlv0p.cnkitawin.online/sitemap.xml
